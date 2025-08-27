@@ -78,7 +78,7 @@ const Review = () => {
       </h4>
 
       <p className='job'>{job}</p>
-      <p className='text'>{text}</p>
+      <p className='info'>{text}</p>
 
        <div className="button-container">
         <button
